@@ -1,0 +1,26 @@
+{
+  "name": "globalai",
+  "version": "1.0.0",
+  "description": "[![mynodeflow](https://github.com/sammychinedu2ky/issue-man/actions/workflows/main.yml/badge.svg)](https://github.com/sammychinedu2ky/issue-man/actions/workflows/main.yml)",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.7",
+    "@actions/github": "^4.0.0",
+    "@azure/cognitiveservices-computervision": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammychinedu2ky/issue-man.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammychinedu2ky/issue-man/issues"
+  },
+  "homepage": "https://github.com/sammychinedu2ky/issue-man#readme"
+}
